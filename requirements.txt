@@ -4,3 +4,10 @@ openai-whisper
 torch
 qrcode
 pillow
+
+streamlit
+whisper
+openai-whisper
+torch
+qrcode
+pillow
